@@ -1,4 +1,4 @@
-Petunnjuk Penggunaan
+Petunjuk Penggunaan
 
 1. Jalankan Apps dengan dari file atm_banking.java
 2. Masuk Login melalui PIN ATM
