@@ -1,0 +1,67 @@
+=========== LOGIN ==========
+				
+-----------= Masukan PIN =-----------1234
+Hello alice
+        
+-----------= MENU ATM =-----------
+-1. BALANCE           =-----------
+-2. DEPOSIT           =-----------
+-3. TRANSFER          =-----------
+-4. KELUAR            =-----------
+-----------= ######## =-----------
+Masukkan Pilihan Anda : 1
+Your Balance is  : $ 0
+        
+-----------= MENU ATM =-----------
+-1. BALANCE           =-----------
+-2. DEPOSIT           =-----------
+-3. TRANSFER          =-----------
+-4. KELUAR            =-----------
+-----------= ######## =-----------
+Masukkan Pilihan Anda : 2
+DEPOSIT = $ 100
+Your Balance is  : $ 100
+        
+-----------= MENU ATM =-----------
+-1. BALANCE           =-----------
+-2. DEPOSIT           =-----------
+-3. TRANSFER          =-----------
+-4. KELUAR            =-----------
+-----------= ######## =-----------
+Masukkan Pilihan Anda : 2
+DEPOSIT = $ 100
+Your Balance is  : $ 200
+        
+-----------= MENU ATM =-----------
+-1. BALANCE           =-----------
+-2. DEPOSIT           =-----------
+-3. TRANSFER          =-----------
+-4. KELUAR            =-----------
+-----------= ######## =-----------
+Masukkan Pilihan Anda : 3
+Transfer to bob
+Transfer = $ 100
+Transferred 100 to bob
+true
+Your Balance is  : $ 100
+        
+-----------= MENU ATM =-----------
+-1. BALANCE           =-----------
+-2. DEPOSIT           =-----------
+-3. TRANSFER          =-----------
+-4. KELUAR            =-----------
+-----------= ######## =-----------
+Masukkan Pilihan Anda : 3
+Transfer to bob
+Transfer = $ 50
+Transferred 50 to bob
+true
+Your Balance is  : $ 50
+        
+-----------= MENU ATM =-----------
+-1. BALANCE           =-----------
+-2. DEPOSIT           =-----------
+-3. TRANSFER          =-----------
+-4. KELUAR            =-----------
+-----------= ######## =-----------
+Masukkan Pilihan Anda : 
