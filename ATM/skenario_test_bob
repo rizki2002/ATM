@@ -1,0 +1,17 @@
+=========== LOGIN ==========
+				
+-----------= Masukan PIN =-----------2345
+Hello bob
+        
+-----------= MENU ATM =-----------
+-1. BALANCE           =-----------
+-2. DEPOSIT           =-----------
+-3. TRANSFER          =-----------
+-4. KELUAR            =-----------
+-----------= ######## =-----------
+Masukkan Pilihan Anda : 1
+Your Balance is  : $ 150
+        
+-----------= MENU ATM =-----------
+-1. BALANCE           =-----------
+-2. DEPOSIT           =--
